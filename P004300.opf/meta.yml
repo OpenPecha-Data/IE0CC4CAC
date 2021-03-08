@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W20016
   title: གྲང་བའི་ནད་ཀྱི་རྣམ་བཤད
   author: ''
-  volumes: {}
+  volumes:
+    4081ecd659cb4b41b072938e90c85c21:
+      image_group_id: I1PD28060
+      title: ''
+      volume_number: 1
+      total_pages: 216
